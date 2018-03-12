@@ -2,7 +2,7 @@
 
 # **CSS**
 
-* responsive vs mobile-first design
+* ## responsive vs mobile-first design
 
   1. #### What is responsive design?
    * The term responsive web design, first coined by Ethan Marcote in 2010
@@ -18,6 +18,7 @@
    * Do my customers prefer searching the web on computers or mobile devices?
    * Does my client mainly use mobile devices to browse the web?
 
+# how to write CSS with BEM
 
 
    The **Block**, **Element**, **Modifier** methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
