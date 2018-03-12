@@ -24,8 +24,9 @@
 
    ## Block component
    ```
-   .btn {}
-    ```
+    .btn {}
+
+   ```
    block is a top-level abstraction of a new component, for example a button: `.btn { }`.
 
    ## Element that depends upon the block /
@@ -38,7 +39,7 @@
    .btn--orange {}
    .btn--big {}
 
-     ```
+   ```
    modifiers can manipulate the block so that we can theme or style that particular component without inflicting changes on a completely unrelated module.
    This is done by appending two hyphens to the name of the block just
 
