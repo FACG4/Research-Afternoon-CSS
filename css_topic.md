@@ -1,5 +1,3 @@
-# Research-Afternoon-CSS
-
 # **CSS**
 
 * responsive vs mobile-first design
